@@ -1,0 +1,9 @@
+var chicken = 
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"Name":"Joella's Cochran Road","Type":"Joella's Hot Chicken", "Address": "101 Cochran Road", "Phone": 8592699593, "Website": "https://joellas.com/locations.php/"},"geometry":{"type":"Point","coordinates":[-84.490064, 38.027573]}},
+    {"type":"Feature","properties":{"Name":"Joella's Hamburg","Type":"Joella's Hot Chicken", "Address": "2305 Sir Barton Way", "Phone": 8599779191, "Website": "https://joellas.com/locations.php/"},"geometry":{"type":"Point","coordinates":[-84.422929, 38.022191]}},
+    {"type":"Feature","properties":{"Name":"Gus's Lexington","Type":"Insurgent", "Address": "321 East Vine Street", "Phone": 8595238008, "Website": "https://www.gusfriedchicken.com/locations/lexington-kentucky/"},"geometry":{"type":"Point","coordinates":[-84.492503, 38.041461]}},
+    {"type":"Feature","properties":{"Name":"Richie's Lexington","Type":"Insurgent", "Address": "771 East New Circle Road", "Phone": 8595239488, "Website": "https://www.richieschicken.com/locations/"},"geometry":{"type":"Point","coordinates":[-84.453733, 38.046716]}},
+    {"type":"Feature","properties":{"Name":"Dave's Lexington KY, Richmond Road","Type":"Insurgent", "Address": "2630 Richmond Road", "Phone": 8593006230, "Website": "https://www.daveshotchicken.com/location/lexington-ky-richmond-rd/"},"geometry":{"type":"Point","coordinates":[-84.456067, 38.010036]}},
+    {"type":"Feature","properties":{"Name":"TKK Fried Chicken Lexington","Type":"Insurgent", "Address": "685 South Limestone Street", "Phone": 8598102100, "Website": "https://www.tkkusa.com/location/"},"geometry":{"type":"Point","coordinates":[-84.508497, 38.035098]}},
+    ]}
